@@ -1,0 +1,16 @@
+C:\Users\dev\Desktop\LaçoRepetição\Nadadores2.0\bin\Debug\net5.0\Nadadores2.0.exe
+C:\Users\dev\Desktop\LaçoRepetição\Nadadores2.0\bin\Debug\net5.0\Nadadores2.0.deps.json
+C:\Users\dev\Desktop\LaçoRepetição\Nadadores2.0\bin\Debug\net5.0\Nadadores2.0.runtimeconfig.json
+C:\Users\dev\Desktop\LaçoRepetição\Nadadores2.0\bin\Debug\net5.0\Nadadores2.0.runtimeconfig.dev.json
+C:\Users\dev\Desktop\LaçoRepetição\Nadadores2.0\bin\Debug\net5.0\Nadadores2.0.dll
+C:\Users\dev\Desktop\LaçoRepetição\Nadadores2.0\bin\Debug\net5.0\ref\Nadadores2.0.dll
+C:\Users\dev\Desktop\LaçoRepetição\Nadadores2.0\bin\Debug\net5.0\Nadadores2.0.pdb
+C:\Users\dev\Desktop\LaçoRepetição\Nadadores2.0\obj\Debug\net5.0\Nadadores2.0.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\LaçoRepetição\Nadadores2.0\obj\Debug\net5.0\Nadadores2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Desktop\LaçoRepetição\Nadadores2.0\obj\Debug\net5.0\Nadadores2.0.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\LaçoRepetição\Nadadores2.0\obj\Debug\net5.0\Nadadores2.0.AssemblyInfo.cs
+C:\Users\dev\Desktop\LaçoRepetição\Nadadores2.0\obj\Debug\net5.0\Nadadores2.0.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\LaçoRepetição\Nadadores2.0\obj\Debug\net5.0\Nadadores2.0.dll
+C:\Users\dev\Desktop\LaçoRepetição\Nadadores2.0\obj\Debug\net5.0\ref\Nadadores2.0.dll
+C:\Users\dev\Desktop\LaçoRepetição\Nadadores2.0\obj\Debug\net5.0\Nadadores2.0.pdb
+C:\Users\dev\Desktop\LaçoRepetição\Nadadores2.0\obj\Debug\net5.0\Nadadores2.0.genruntimeconfig.cache
