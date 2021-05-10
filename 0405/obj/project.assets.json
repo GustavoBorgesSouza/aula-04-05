@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\dev\\.nuget\\packages\\": {}
+    "C:\\Users\\gusta\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dev\\Desktop\\LaçoRepetição\\0405\\0405.csproj",
+      "projectUniqueName": "C:\\Users\\gusta\\OneDrive\\Área de Trabalho\\backend\\aula-04-05\\0405\\0405.csproj",
       "projectName": "0405",
-      "projectPath": "C:\\Users\\dev\\Desktop\\LaçoRepetição\\0405\\0405.csproj",
-      "packagesPath": "C:\\Users\\dev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dev\\Desktop\\LaçoRepetição\\0405\\obj\\",
+      "projectPath": "C:\\Users\\gusta\\OneDrive\\Área de Trabalho\\backend\\aula-04-05\\0405\\0405.csproj",
+      "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gusta\\OneDrive\\Área de Trabalho\\backend\\aula-04-05\\0405\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\dev\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\gusta\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"

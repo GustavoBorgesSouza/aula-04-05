@@ -22,12 +22,42 @@ namespace _0405
                Console.WriteLine("Contador: " + i);
            }
 
-        //    bool idadeTyler = false;
+            bool idadeCerta = false;
 
-        //     while (idadeTyler = false)
-        //     {
-                
-        //     }
+            while (idadeCerta == false)
+            {
+                Console.WriteLine("Qual a idade de tyler joseph?");
+                int idadeTyler = int.Parse(Console.ReadLine());
+
+                if (idadeTyler == 32)
+                {
+                    Console.WriteLine("Acertou miseravi!!");
+                    idadeCerta = true;
+                } else
+                {
+                    Console.WriteLine("Errou");
+                }
+            }
+
+            idadeCerta = false;
+
+            do
+            {
+                Console.WriteLine("Qual a idade de tyler joseph?");
+                int idadeTyler = int.Parse(Console.ReadLine());
+
+                if (idadeTyler == 32)
+                {
+                    Console.WriteLine("Acertou miseravi!!");
+                    idadeCerta = true;
+                } else
+                {
+                    Console.WriteLine("Errou");
+                }
+
+            } while (idadeCerta == false);
+
+            Console.WriteLine("Fim sistema");
         }
     }
 }
